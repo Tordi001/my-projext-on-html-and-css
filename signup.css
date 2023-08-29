@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: gray;
+    font-size: 20px;
+    margin: 0px;
+    padding: 0px;
+}
+    .container{
+        background-color: #fff;
+        text-align: center;
+        border: 15px solid pink;
+        margin-top: 200px;
+        margin-left: 350px;
+        margin-bottom: 250px;
+        margin-right: 350px;
+    }
+    button{
+        padding: 5px 20px;
+        margin-top: 20px;
+    }
+    button:hover{
+        background-color: red;
+    }
